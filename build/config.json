@@ -1,3 +1,4 @@
+para fogueira
 {
     "output": "Main.lua",
     "main": "src/Main.lua",
@@ -6,4 +7,4 @@
     "tags": {
         "@lib": "src/lib"
     }
-}
+}para ferro
